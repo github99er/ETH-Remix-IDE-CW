@@ -47,15 +47,25 @@ Because I've written a smart contract and interacted with Solidity before this t
 
 ## Time to Deploy
 
+The next logical step in this entire process is to deploy the smart contract to the Ethereum testnet. Therefore, it's only makes sense that the deploy button was place exactly below the compile button. This maakes the life a new user very easy, as the UI is laid out in logical steps that a user would take.
+
 ![](Remix8.PNG)  
 
 ## Contract Deployed
+
+After deploying my contract it shows me how many contracts I have deployed, the name of the contracts, and the methods beloning to the contract. From above you might remember the only function I added to my smart contract was a `hellWorld()` function; below you can see this method was deployed with the contract.
+
+The next logical step was not clear, however I found myself clicking the `helloWorld` button shown below, and an output appeard in the terminal window.
 
 ![](Remix9.PNG)  
 
 ## Output
 
+Below is the intial output displayed in the terminal after clicking the `helloWorld` button from above. The output at first glance is a bit confusing as I'm not sure what to make of it and it's not very readable.
+
 ![](Remix10.PNG)
+
+After tinkering around for a bit I figured out I could click on the actual output string and a dropdown of different objects appeared as shown below. Specifically, what we should be looking for is our `"Hello World"` string that should be returned from out smart contract. After much digging we see that our output `{"0": "string: Hello World"}` is stored in `decoded output`.
 
 ![](Remix11.PNG)
 
