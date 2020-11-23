@@ -75,7 +75,7 @@ Overall, for a new user I believe the Ethereum Remix IDE presents its pitfalls. 
 
 I do have some recommendations for the Ethereum team though, of which I will list below.
 
-1. When visitng the Remix IDE for the first time there should be a "Hello World" contract placed in front of users.
-2. When creating a new contract, the latest stable release of Solditiy should automatically appear in my contract.
+1. When visiting the Remix IDE for the first time there should be a "Hello World" contract placed in front of users.
+2. When creating a new contract, the latest stable release of Solidity should automatically appear in my contract.
 3. After compiling a contract there should be a more obvious indicator of success.
 4. After deploying my contracts there should be more obvious instructions / indicators as far as where I should be looking for my output.
