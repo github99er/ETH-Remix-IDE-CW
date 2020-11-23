@@ -71,4 +71,11 @@ After tinkering around for a bit I figured out I could click on the actual outpu
 
 ## Conclusion
 
+Overall, for a new user I believe the Ethereum Remix IDE presents its pitfalls. As a first time user I did experience SOME difficulties that I feel a new user should not have to go through. However, that's not to say these difficulties were not resolveable with a little Google search.
 
+I do have some recommendations for the Ethereum team though, of which I will list below.
+
+1. When visitng the Remix IDE for the first time there should be a "Hello World" contract placed in front of users.
+2. When creating a new contract, the latest stable release of Solditiy should automatically appear in my contract.
+3. After compiling a contract there should be a more obvious indicator of success.
+4. After deploying my contracts there should be more ovious instructions / indicators as far as where I should be looking for my output.
